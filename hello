@@ -1,0 +1,3 @@
+#! /Users/alliberry/.nodenv/shims/node
+
+console.log("Hello, world!");
